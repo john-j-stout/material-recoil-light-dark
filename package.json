@@ -39,5 +39,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "keywords": [
+    "react",
+    "recoil",
+    "material",
+    "light",
+    "light mode",
+    "dark",
+    "dark mode"
+	]
 }
