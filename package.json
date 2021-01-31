@@ -1,7 +1,6 @@
 {
   "name": "material-recoil-light-dark",
   "version": "0.1.0",
-  "private": true,
   "author": "John J. Stout",
   "license": "MIT",
   "dependencies": {
