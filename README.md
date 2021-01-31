@@ -1,4 +1,4 @@
-# Material Recoil Light / Dark Mode Template
+# Material-UI Recoil Light / Dark Mode Template
 
 ## Running the App
 
